@@ -3,7 +3,8 @@ Korean handwriting dataset parsed from the [HangulDB](https://github.com/callee2
 
 # Samples
 
-Each image has different width and height. For the consistency, I intentionally preserve the original data property.
+Each image has different width and height. 
+For the consistency with the original, I intentionally preserve the property.
 ## b0a1
 ![b0a1/1.jpg](https://github.com/hslyu/HAN/blob/main/HanDB_test/b0a1/1.jpg)
 ![b0a1/2.jpg](https://github.com/hslyu/HAN/blob/main/HanDB_test/b0a1/2.jpg)
