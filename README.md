@@ -14,3 +14,7 @@ Three datasets have the same structure:
 
 __warning__
 PE92 contains some mislabeled samples at the last few samples for each class.
+
+# Verification
+`parser.ipynb` parses a hgu1 file to several jpg files.
+You can test whether it correctly parse the original dataset using `parser.ipynb`.
