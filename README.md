@@ -23,6 +23,8 @@ You can test whether it correctly parse the original dataset using `parser.ipynb
 
 # Samples
 
+Each image has different width and height. For the consistency, I intentionally preserve the original data property.
+
 ## b0a1
 ![b0a1/1.jpg](https://github.com/hslyu/HAN/blob/main/HanDB_test/b0a1/1.jpg)
 ![b0a1/2.jpg](https://github.com/hslyu/HAN/blob/main/HanDB_test/b0a1/2.jpg)
