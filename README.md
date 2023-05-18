@@ -3,9 +3,9 @@ Korean handwriting dataset parsed from the [HangulDB](https://github.com/callee2
 
 # Datasets
 This repo contains PE92, SERI95, and HanDB.
-* PE92 contains 2350 classes, each with 100 samples
-* SERI95 contains 520 classes, each with 1000 samples
-* HANDB merges SERI95 and PE92.
+* PE92 contains __2350 classes__, each with __100 samples__.
+* SERI95 contains __520 classes__, each with __1000 samples__.
+* HANDB merges SERI95 and PE92. That is, __520 classes__ have __1100 samples__ and the others (__1820 classes__) have __100 samples__.
 
 __Architecture__
 
